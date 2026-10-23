@@ -44,8 +44,8 @@ cd actividad-markdown
 
 Esta documentación la he hecho para la asignatura de Implantación de Aplicaciones Web, en el IES Clara del Rey.
 
-   ![IES Clara del Rey](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg/800px-I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg)
+![IES Clara del Rey](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg/800px-I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg)
 
-foto de Wikimedia Commons
+foto de ANAGSPC, CC BY-SA 4.0, vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:I.e.s._clara_del_rey_(Prosperidad,_Madrid).jpg)
 
 - [ ] poner una captura del docket
